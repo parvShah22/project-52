@@ -1,0 +1,107 @@
+
+h1
+{
+    color:rgb(255, 0, 0)
+}
+
+.header{
+background-color: #35362b;
+display: flex;
+justify-content: space-between;
+ margin-left: 30px;
+
+}
+.grid
+{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+
+  }
+
+ 
+.bodyimg
+{
+    background-color: rgb(241, 0, 201);
+    border-radius: 20px;
+    margin-top:30px;;
+width: 350px;
+margin-right: 15px;
+}
+
+img
+{
+ border: solid;   
+border-radius: 20px;
+margin-left: 24%;
+margin-top: 10px;
+border-width: 4px;
+}
+
+.fact
+{
+    font-family: cursive;
+    font-size: 15px;
+    width: 300px;
+}
+
+.menu
+{
+margin-top: 50px;
+font-size: 20px;
+font-family: serif;
+color: rgb(255, 253, 253);
+}
+
+
+
+.o
+{
+margin-left: 500px;
+}
+.parv{
+    margin-right: 500px;
+}
+
+.follow{
+    margin-right: 5000px;
+}
+
+
+.o{
+    color: rgb(255, 255, 255);
+}
+
+.menu a:link
+{
+color:white;
+}
+.menu a:visited
+{
+color:rgb(255, 255, 255);
+}
+
+
+
+  .item:hover img{
+            transform:scale(2) 
+     }
+          
+            
+
+b{
+    color: #2bff00;
+}
+.menu1
+{
+    color: white;
+    margin-left: 1022px;
+    font-size: 20px;
+    font-family: serif;
+    margin-top: 60px;
+
+}
